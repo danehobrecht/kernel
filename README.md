@@ -23,7 +23,7 @@ The LKMPG setup documentation is completely shot. I have taken great pains to pr
 
 You may now proceed to [Hello World](https://sysprog21.github.io/lkmpg/#hello-world).
 
-Follow the manual build steps Avoid the specialized QEMU ones at all costs. It is for your ultimate benefit that you learn the classical development flow as opposed to internalizing a customized build system that doesn't work.
+Follow the manual build steps. Avoid the specialized QEMU ones at all costs. It is for your ultimate benefit that you learn the classical development flow as opposed to internalizing a customized build system that doesn't work.
 
 ## References
 - https://brew.sh

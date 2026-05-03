@@ -3,7 +3,7 @@
 The LKMPG setup documentation is completely shot. I have taken great pains to produce minimal setup documentation that works. This guide has been tested on an M-Series MacBook and could use testing on other platforms.
 
 ## Setup
-- Install the brew package manager:
+- Install the brew package manager:\
 (Host) `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
 - Install prerequisite software:\

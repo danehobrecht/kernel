@@ -3,6 +3,9 @@
 The LKMPG setup documentation is completely shot. I have taken great pains to produce minimal setup documentation that works. This guide has been tested on an M-Series MacBook and could use testing on other platforms.
 
 ## Setup
+- Install the brew package manager:
+(Host) `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
+
 - Install prerequisite software:\
 (Host) `brew install qemu lima lima-additional-guestagents`
 
@@ -23,5 +26,6 @@ You may now proceed to [Hello World](https://sysprog21.github.io/lkmpg/#hello-wo
 Follow the manual build steps Avoid the specialized QEMU ones at all costs. It is for your ultimate benefit that you learn the classical development flow as opposed to internalizing a customized build system that doesn't work.
 
 ## References
+- https://brew.sh
 - https://sysprog21.github.io/lkmpg/
 - https://github.com/sysprog21/lkmpg

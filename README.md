@@ -23,5 +23,5 @@ You may now proceed to [Hello World](https://sysprog21.github.io/lkmpg/#hello-wo
 Follow the manual build steps Avoid the specialized QEMU ones at all costs. It is for your ultimate benefit that you learn the classical development flow as opposed to internalizing a customized build system that doesn't work.
 
 ## References
-- https://sysprog21.github.io
+- https://sysprog21.github.io/lkmpg/
 - https://github.com/sysprog21/lkmpg
